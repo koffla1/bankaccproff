@@ -1,0 +1,14 @@
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\bin\Debug\bank.exe.config
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\bin\Debug\bank.exe
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\bin\Debug\bank.pdb
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.csproj.AssemblyReference.cache
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\MainWindow.baml
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\MainWindow.g.cs
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\App.g.cs
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank_MarkupCompile.cache
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.g.resources
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.Properties.Resources.resources
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.csproj.GenerateResource.cache
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.csproj.CoreCompileInputs.cache
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.exe
+C:\Users\зс\OneDrive\Desktop\2 семестр\bank\bank\obj\Debug\bank.pdb
